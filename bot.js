@@ -1,6 +1,6 @@
 /*
- * Discord Bot Builder Bot
- * Version 1.2.0
+ * Discord NIGGER Builder Bot
+ * Version 6.6.6
  * Robert Borghese
  */
 
